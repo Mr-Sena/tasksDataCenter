@@ -38,6 +38,10 @@ public class Tema {
 	public void setId(long id) {
 		this.id = id;
 	}
+	
+	
+	
+	
 
 	public String getDescricao() {
 		return descricao;
@@ -46,6 +50,10 @@ public class Tema {
 	public void setDescricao(String descricao) {
 		this.descricao = descricao;
 	}
+	
+	
+	
+	
 
 	public List<Postagem> getPostagem() {
 		return postagem;
